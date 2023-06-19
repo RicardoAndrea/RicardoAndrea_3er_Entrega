@@ -1,0 +1,26 @@
+footer {
+    width: 100%;
+    padding: 10px 0px;
+    background: gray;
+    section {
+        display: flex;
+        background-color:gray;
+        justify-content: space-around;
+        .copy {
+            margin-bottom: 10px;
+            padding-top: 20px; 
+        }
+        .redes {
+            img {
+                padding-top: 10px;
+                padding: 1px;
+                margin-top: 0px; 
+            }
+            label{
+                padding-top: 10px;
+                padding: 1px;
+                margin-top: 20px;
+            }       
+        }    
+    }
+}
